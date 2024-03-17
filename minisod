@@ -1,0 +1,57 @@
+* MiniSod OpenAir File for gaggle
+* Created by Scott Stanton
+*    spreadsheet@scottstanton.us
+*
+* Changelog:
+* 2023-02-05 Consolidated to a single file
+* 2023-09-05 Added Dennis
+* 2024-03-04 Added Cattle 
+
+* Farmer off Mitchell Mill
+* Modified to polygon 2023-02-05
+AC R
+AN No Fly or Land
+AL SFC
+AH 1000FT
+DP 35:51:42 N 78:28:04 W
+DP 35:51:45 N 78:27:43 W
+DP 35:51:52 N 78:27:26 W
+DP 35:52:00 N 78:27:26 W
+DP 35:52:00 N 78:28:04 W
+* V X=35:51.861N 78:27.669W
+* DC 0.3
+
+* Neighbors to the south
+AC R
+AN Minisod Neighbors
+AL SFC
+AH 1000FT
+DP 35:50:33 N 78:27:50 W
+DP 35:50:13 N 78:28:06 W
+DP 35:50:12 N 78:28:16 W
+DP 35:50:33 N 78:28:16 W
+
+* End of Driveway neighbor
+AC R
+AN Dennis
+AL SFC
+AH 700FT
+DP 35:50:49 N 78:28:01 W
+DP 35:50:49 N 78:28:04 W
+DP 35:50:46 N 78:28:05 W
+DP 35:50:43 N 78:28:03 W
+DP 35:50:45 N 78:27:58 W
+
+*Cattle Farmer off Fowler & EdgeCombe
+AC R
+AN Cattle - Stay high
+AL SFC
+AH 1000FT
+DP 35:52:39 N 78:23:56 W
+DP 35:52:57 N 78:23:57 W
+DP 35:53:42 N 78:23:31 W
+DP 35:53:33 N 78:22:56 W
+DP 35:52:38 N 78:23:32 W
+
+* End Of File
+
