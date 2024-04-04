@@ -1,0 +1,77 @@
+* Bad Apples OpenAir File for gaggle
+* Created by Scott Stanton
+*    spreadsheet@scottstanton.us
+*
+* Changelog:
+* 2024-04-04 Created file
+
+* Lee State Prison
+AC R
+AN Lee State Prison
+AL SFC
+AH 1000FT
+V X=31:45:50 N 84:11.37 W
+DC 0.3
+
+* Sumpter County Correctional Institue
+AC R
+AN Sumpter County CI
+AL SFC
+AH 1000FT
+V X=32:04:26 N 84:16:38 W
+DC 0.3
+
+* Jimmy Carter Regional Airport
+AC R
+AN Jimmy Carter Regional Airport
+AL SFC
+AH 3000FT
+V X=32:06:38.6 N 84:11:16.4 W
+DC 1.0
+
+* Museum/Cemetery: 32:11:47.1 N 84:07:47.6 W
+* National POW Museum
+AC R
+AN National POW Museum
+AL SFC
+AH 1000ft
+DP 32:12:21.7 N 84:08:01.1 W
+DP 32:12:22.8 N 84:07:32.7 W
+DP 32:11:48.9 N 84:07:00.1 W
+DP 32:11:21.4 N 84:07:43.4 W
+DP 32:11:21.6 N 84:08:04.5 W
+
+* Macon State Prison
+AC R
+AN Macon State Prison
+AL SFC
+AH 1000FT
+V X=32:15:31.3 N 84:05:26.5 W
+DC 0.5
+
+* Macon County Sheriff
+AC R
+AN Macon County Sheriff
+AL SFC
+AH 1000FT
+V X=32:17:37.5 N 84:03:34.0 W
+DC 0.1
+
+* Concrete Plant
+AC R
+AN Concrete Plant
+AL SFC
+AH 1000FT
+V X=31:55:56.8 N 83:46:31.7 W
+DC 0.3
+
+* Hodges Field
+AC G
+AN Hodges Field
+AL SFC
+AH SFC
+V X=32:07:24 N 84:07:46 W
+DC 0.2
+
+* End Of File
+
